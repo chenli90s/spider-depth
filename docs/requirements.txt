@@ -1,0 +1,4 @@
+BeautifulSoup4
+MySQL-python
+processing
+redis
